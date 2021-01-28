@@ -1,168 +1,60 @@
-{\rtf1\ansi\ansicpg950\cocoartf2577
-\cocoatextscaling0\cocoaplatform0{\fonttbl\f0\fswiss\fcharset0 Helvetica;\f1\fnil\fcharset136 PingFangTC-Regular;}
-{\colortbl;\red255\green255\blue255;}
-{\*\expandedcolortbl;;}
-\paperw11900\paperh16840\margl1440\margr1440\vieww11520\viewh8400\viewkind0
-\pard\tx566\tx1133\tx1700\tx2267\tx2834\tx3401\tx3968\tx4535\tx5102\tx5669\tx6236\tx6803\pardirnatural\partightenfactor0
+# Stats
 
-\f0\fs24 \cf0 # Stats\
-\
-<a href="https://github.com/exelban/stats/releases"><p align="center"><img src="https://serhiy.s3.eu-central-1.amazonaws.com/Github_repo/stats/logo.png?raw=true&v=1" width="120"></p></a>\
-\
-[![Stats](https://serhiy.s3.eu-central-1.amazonaws.com/Github_repo/stats/menus%3Fv2.3.2.png?v1)](https://github.com/exelban/stats/releases)\
-[![Stats](https://serhiy.s3.eu-central-1.amazonaws.com/Github_repo/stats/popups%3Fv2.3.2.png?v3)](https://github.com/exelban/stats/releases)\
-\
+<a href="https://github.com/exelban/stats/releases"><p align="center"><img src="https://serhiy.s3.eu-central-1.amazonaws.com/Github_repo/stats/logo.png?raw=true&v=1" width="120"></p></a>
 
-\f1 \'a6\'62\'bf\'ef\'b3\'e6\'a6\'43\'a4\'57\'aa\'ba 
-\f0 macOS 
-\f1 \'a8\'74\'b2\'ce\'ba\'ca\'b5\'f8\'be\'b9
-\f0 \
-\
-## 
-\f1 \'a6\'77\'b8\'cb
-\f0 \
-### 
-\f1 \'a4\'e2\'b0\'ca\'a6\'77\'b8\'cb
-\f0 \
+[![Stats](https://serhiy.s3.eu-central-1.amazonaws.com/Github_repo/stats/menus%3Fv2.3.2.png?v1)](https://github.com/exelban/stats/releases)
+[![Stats](https://serhiy.s3.eu-central-1.amazonaws.com/Github_repo/stats/popups%3Fv2.3.2.png?v3)](https://github.com/exelban/stats/releases)
 
-\f1 \'b1\'7a\'a5\'69\'a5\'48\'b1\'71
-\f0 [
-\f1 \'b3\'6f\'b8\'cc
-\f0 ](https://github.com/exelban/stats/releases/latest/download/Stats.dmg)
-\f1 \'a4\'55\'b8\'fc\'b3\'cc\'b7\'73\'aa\'a9\'a5\'bb\'a1\'43
-\f0 \
+在選單列上的 macOS 系統監視器
 
-\f1 \'b3\'6f\'b1\'4e\'b7\'7c\'a4\'55\'b8\'fc\'a6\'57\'ac\'b0
-\f0   `Stats.dmg` 
-\f1 \'aa\'ba\'c0\'c9\'ae\'d7\'a1\'43\'b1\'4e\'c0\'c9\'ae\'d7\'a5\'b4\'b6\'7d\'a8\'c3\'b2\'be\'b0\'ca\'a8\'ec\'a1\'75\'c0\'b3\'a5\'ce\'b5\'7b\'a6\'a1\'a1\'76\'c0\'c9\'ae\'d7\'a7\'a8\'a1\'43
-\f0 \
-\
-### Homebrew 
-\f1 \'a6\'77\'b8\'cb
-\f0 \
-\
-```bash\
-brew install --cask stats\
-```\
-\
-## 
-\f1 \'a8\'74\'b2\'ce\'bb\'dd\'a8\'44
-\f0 \
-Stats 
-\f1 \'a5\'d8\'ab\'65\'a4\'e4\'b4\'a9
-\f0  macOS 10.14 (Mojave) 
-\f1 \'a9\'ce\'a5\'48\'a4\'57\'aa\'ba\'a8\'74\'b2\'ce\'aa\'a9\'a5\'bb\'a1\'43
-\f0 \
-\
-## 
-\f1 \'a5\'5c\'af\'e0\'af\'53\'a6\'e2
-\f0 \
-Stats 
-\f1 \'ac\'4f\'a4\'40\'b4\'da\'a5\'69\'a8\'d1\'b1\'7a\'ba\'ca\'b5\'f8
-\f0  macOS 
-\f1 \'a8\'74\'b2\'ce\'a6\'55\'b6\'b5\'bc\'c6\'be\'da\'aa\'ba\'c0\'b3\'a5\'ce\'b5\'7b\'a6\'a1\'a1\'43
-\f0 \
-\
- - CPU 
-\f1 \'a8\'cf\'a5\'ce\'b2\'76
-\f0 \
- - GPU 
-\f1 \'a8\'cf\'a5\'ce\'b2\'76
-\f0 \
- - 
-\f1 \'b0\'4f\'be\'d0\'c5\'e9\'a8\'cf\'a5\'ce
-\f0 \
- - 
-\f1 \'ba\'cf\'ba\'d0\'a8\'cf\'a5\'ce\'b2\'76
-\f0 \
- - 
-\f1 \'b7\'50\'aa\'be\'be\'b9\'b8\'ea\'b0\'54
-\f0  (
-\f1 \'b7\'c5\'ab\'d7\'a1\'42\'b9\'71\'c0\'a3\'a1\'42\'b9\'71\'b7\'bd
-\f0 )\
- - 
-\f1 \'b9\'71\'a6\'c0\'b0\'b7\'b1\'64\'ab\'d7
-\f0 \
- - 
-\f1 \'ba\'f4\'bb\'da\'ba\'f4\'b8\'f4\'a8\'cf\'a5\'ce
-\f0 \
- - 
-\f1 \'ad\'b7\'ae\'b0\'c2\'e0\'b3\'74
-\f0 \
-\
-## 
-\f1 \'a4\'e4\'b4\'a9\'aa\'ba\'bb\'79\'a8\'a5
-\f0 \
-- English\
-- Polski\
-- \uc0\u1059 \u1082 \u1088 \u1072 \u1111 \u1085 \u1089 \u1100 \u1082 \u1072 \
-- \uc0\u1056 \u1091 \u1089 \u1089 \u1082 \u1080 \u1081 \
-- 
-\f1 \'a4\'a4\'a4\'e5
-\f0  (
-\f1 \uc0\u31616 \'ca\'5e
-\f0 ) (
-\f1 \'b7\'50\'c1\'c2
-\f0  [chenguokai](https://github.com/chenguokai) 
-\f1 \'bb\'50
-\f0  [Tai-Zhou](https://github.com/Tai-Zhou))\
-- T\'fcrk\'e7e (
-\f1 \'b7\'50\'c1\'c2
-\f0  [yusufozgul](https://github.com/yusufozgul))\
-- Korean (
-\f1 \'b7\'50\'c1\'c2
-\f0  [escapeanaemia](https://github.com/escapeanaemia))\
-- German (
-\f1 \'b7\'50\'c1\'c2
-\f0  [natterstefan](https://github.com/natterstefan))\
-- 
-\f1 \'a4\'a4\'a4\'e5
-\f0  (
-\f1 \'c1\'63\'c5\'e9
-\f0 ) (
-\f1 \'b7\'50\'c1\'c2
-\f0  [iamch15542](https://github.com/iamch15542) 
-\f1 \'bb\'50
-\f0  [jrthsr700tmax](https://github.com/jrthsr700tmax))\
-- Spanish (
-\f1 \'b7\'50\'c1\'c2
-\f0  [jcconca](https://github.com/jcconca))\
-- Vietnamese (
-\f1 \'b7\'50\'c1\'c2
-\f0  [xuandung38](https://github.com/xuandung38))\
-- French (
-\f1 \'b7\'50\'c1\'c2
-\f0  [RomainLt](https://github.com/RomainLt))\
-- Italian (
-\f1 \'b7\'50\'c1\'c2
-\f0 [gmcinalli](https://github.com/gmcinalli))\
-- Portuguese (Brazil) (
-\f1 \'b7\'50\'c1\'c2
-\f0  [marcelochaves95](https://github.com/marcelochaves95))\
-- Norwegian Bokm\'e5l (
-\f1 \'b7\'50\'c1\'c2
-\f0  [rubjo](https://github.com/rubjo))\
-- 
-\f1 \'a4\'e9\'a5\'bb\'bb\'79
-\f0  (
-\f1 \'b7\'50\'c1\'c2
-\f0  [treastrain](https://github.com/treastrain))\
-- Portuguese (Portugal) (
-\f1 \'b7\'50\'c1\'c2
-\f0  [AdamModus](https://github.com/AdamModus))\
-- Czech (
-\f1 \'b7\'50\'c1\'c2
-\f0  [mpl75](https://github.com/mpl75))\
-- Magyar (
-\f1 \'b7\'50\'c1\'c2
-\f0  [moriczr](https://github.com/moriczr))\
-\
+## 安裝
+### 手動安裝
+您可以從[這裡](https://github.com/exelban/stats/releases/latest/download/Stats.dmg)下載最新版本。
+這將會下載名為  `Stats.dmg` 的檔案。將檔案打開並移動到「應用程式」檔案夾。
 
-\f1 \'b1\'7a\'a5\'69\'a5\'48\'b3\'7a\'b9\'4c\'a5\'5b\'a4\'4a\'b7\'73\'bb\'79\'a8\'a5\'a9\'ce\'a7\'ef\'b5\'bd\'b2\'7b\'a6\'b3\'c2\'bd\'c4\'b6\'a8\'d3\'a8\'f3\'a7\'55\'a7\'da\'ad\'cc\'a1\'43
-\f0 \
-\
-## 
-\f1 \'b1\'c2\'c5\'76\'a8\'f3\'c4\'b3
-\f0 \
-[MIT License](https://github.com/exelban/stats/blob/master/LICENSE)\
-}
+### Homebrew 安裝
+
+```bash
+brew install --cask stats
+```
+
+## 系統需求
+Stats 目前支援 macOS 10.14 (Mojave) 或以上的系統版本。
+
+## 功能特色
+Stats 是一款可供您監視 macOS 系統各項數據的應用程式。
+
+ - CPU 使用率
+ - GPU 使用率
+ - 記憶體使用
+ - 磁碟使用率
+ - 感知器資訊 (溫度、電壓、電源)
+ - 電池健康度
+ - 網際網路使用
+ - 風扇轉速
+
+## 支援的語言
+- English
+- Polski
+- Українська
+- Русский
+- 中文 (简体) (感謝 [chenguokai](https://github.com/chenguokai) 與 [Tai-Zhou](https://github.com/Tai-Zhou))
+- Türkçe (感謝 [yusufozgul](https://github.com/yusufozgul))
+- Korean (感謝 [escapeanaemia](https://github.com/escapeanaemia))
+- German (感謝 [natterstefan](https://github.com/natterstefan))
+- 中文 (繁體) (感謝 [iamch15542](https://github.com/iamch15542) 與 [jrthsr700tmax](https://github.com/jrthsr700tmax))
+- Spanish (感謝 [jcconca](https://github.com/jcconca))
+- Vietnamese (感謝 [xuandung38](https://github.com/xuandung38))
+- French (感謝 [RomainLt](https://github.com/RomainLt))
+- Italian (感謝[gmcinalli](https://github.com/gmcinalli))
+- Portuguese (Brazil) (感謝 [marcelochaves95](https://github.com/marcelochaves95))
+- Norwegian Bokmål (感謝 [rubjo](https://github.com/rubjo))
+- 日本語 (感謝 [treastrain](https://github.com/treastrain))
+- Portuguese (Portugal) (感謝 [AdamModus](https://github.com/AdamModus))
+- Czech (感謝 [mpl75](https://github.com/mpl75))
+- Magyar (感謝 [moriczr](https://github.com/moriczr))
+
+您可以透過加入新語言或改善現有翻譯來協助我們。
+
+## 授權協議
+[MIT License](https://github.com/exelban/stats/blob/master/LICENSE)
